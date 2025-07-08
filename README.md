@@ -1,12 +1,8 @@
-<h1 align="center">Hey 👋, I'm Devanshu</h1>
-<h3 align="center">🚀 Learner | 💻 Web Developer | 📊 Python Enthusiast</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFB0&width=435&lines=Welcome+to+my+GitHub!;I+love+learning+new+tech.;HTML+%7C+CSS+%7C+Python+%7C+Data+Analysis;Follow+my+journey+below+%F0%9F%91%87" alt="Typing SVG" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Devanshu</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJremlsMzl0Z2JkcWw5dTV3bmhobjN6eWs5ZThoaTdsYXJmcmE2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LyV4cw0vDtAgc8xTHQ/giphy.gif"
+<img align="right" alt="Coding" width="400" src="[https://drive.google.com/file/d/1_2ju8c22qjvyYQtOOKPKDnh2LqlyvOUh/view?usp=drive_link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3AyY&psig=AOvVaw2d648hW-kzJPTcEpItb5yk&ust=1752089647207000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjM992Aro4DFQAAAAAdAAAAABAL)">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshu-uu&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu-uu" /> </p>
 
