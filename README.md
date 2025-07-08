@@ -1,7 +1,8 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Devanshu Banner" />
-</p>
+<!-- ✨ Animated Banner -->
+
+  ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
+
 
 <!-- Typing Effect -->
 <p align="center">
@@ -20,6 +21,28 @@
 
 ---
 
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/devanshu_uu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/devanshu.uu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/devanshumaurya" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://youtube.com/@VispotGamer" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://pinterest.com/devanshu_uu" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="30" width="40" />
+  </a>
+</p>
+
+---
+
 ### 🧰 Languages & Tools
 
 <p align="left">
@@ -34,40 +57,26 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
+<!-- ☀️ GitHub Stats in a clean white theme -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu-uu&show_icons=true&locale=en&layout=compact&theme=vue" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devanshu-uu&show_icons=true&theme=radical&card_width=1080" />
-  <img src="https://streak-stats.demolab.com?user=Devanshu-uu&theme=radical&card_width=1080" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu-uu&layout=compact&theme=radical&card_width=1080" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devanshu-uu&show_icons=true&locale=en&theme=vue" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshu-uu&theme=vue" alt="GitHub Streak" />
+</p>
+
+
 
 ---
 
 ### 🔥 Contribution Graph
 
 ![Devanshu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devanshu-uu&bg_color=000000&color=00ffbf&line=38ff9c&point=ffffff&area=true&hide_border=true)
-
----
-
-### ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### 🌐 Socials
-
-<p align="center">
-  <a href="https://instagram.com/devanshu.uu"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/devanshumaurya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://pinterest.com/devanshu_uu"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" /></a>
-  <a href="https://x.com/Devanshu_uu"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="https://youtube.com/@VispotGamer"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
-</p>
 
 ---
 
