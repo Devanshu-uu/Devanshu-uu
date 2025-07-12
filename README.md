@@ -52,21 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats (light theme)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu-uu&show_icons=true&locale=en&layout=compact&theme=vue" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanshu-uu&show_icons=true&locale=en&theme=vue" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshu-uu&theme=vue" />
-</p>
-
----
 
 ### 🔥 Contribution Graph
 
