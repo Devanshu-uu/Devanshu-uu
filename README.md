@@ -217,9 +217,11 @@ https://devbytes.in
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg"/>
+  <img
+    src="https://raw.githubusercontent.com/Devanshu-uu/Devanshu-uu/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
 </p>
-
 ---
 
 # 👀 Profile Views
