@@ -170,23 +170,12 @@ https://devbytes.in
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devanshu-uu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshu-uu&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu-uu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
 
----
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Devanshu-uu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
