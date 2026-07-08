@@ -15,7 +15,7 @@ Student • Programmer • Web Developer • Open Source Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;C+%7C+C%2B%2B+Programmer;Future+Full+Stack+Developer;Learning+DSA+Every+Day;Open+Source+Contributor;Always+Building+Something+Awesome!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;C+%7C+C%2B%2B+Programmer;Future+Full+Stack+Developer;Learning+DSA+Every+Day;Open+Source+Contributor;Always+Building+Something+Awesome!" />
 </p>
 
 <p align="center">
@@ -68,6 +68,8 @@ Student • Programmer • Web Developer • Open Source Enthusiast
 
 # 🚀 Current Focus
 
+
+
 - 🔥 Learning DSA with C++
 - 🌐 Building **DevBytes**
 - 💻 Creating Real-world Projects
@@ -76,93 +78,30 @@ Student • Programmer • Web Developer • Open Source Enthusiast
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/devanshumaurya">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-<a href="https://instagram.com/devanshu.uu">
-<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
-</a>
-
-<a href="https://twitter.com/devanshu_uu">
-<img src="https://skillicons.dev/icons?i=twitter" height="48"/>
-</a>
-
-<a href="https://youtube.com/@VispotGamer">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" height="48"/>
-</a>
-
-<a href="https://pinterest.com/devanshu_uu">
-<img src="https://cdn.simpleicons.org/pinterest/E60023" height="48"/>
-</a>
-
-</p>
-
 ---
-
-# 📫 Contact
-
-📧 **Email**
-
-<a href="mailto:devanshumohriya@gmail.com">
-devanshumohriya@gmail.com
-</a>
-
-🌍 **Portfolio**
-
-<a href="https://devbytes.in">
-https://devbytes.in
-</a>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css"/>
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,ps"/>
-</p>
-
----
-
-# ⭐ Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌐 **DevBytes** | Personal Website |
-| 💼 **Portfolio** | Personal Portfolio |
-| 📚 **DSA Repository** | C/C++ Practice |
-| 🚀 **More Projects Coming Soon...** | Stay Tuned |
-
----
-
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devanshu-uu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Devanshu-uu&theme=tokyonight&hide_border=true"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Devanshu-uu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Devanshu-uu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu-uu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img
+    width="40%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu-uu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -170,26 +109,45 @@ https://devbytes.in
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshu-uu&theme=tokyo-night&hide_border=true&area=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshu-uu&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
 
 # ⚡ GitHub Summary
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devanshu-uu&theme=tokyonight"/>
-</p>
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devanshu-uu&theme=tokyonight"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devanshu-uu&theme=tokyonight"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devanshu-uu&theme=tokyonight" width="100%" />
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devanshu-uu&theme=tokyonight"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devanshu-uu&theme=tokyonight&utcOffset=5.5"/>
-</p>
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devanshu-uu&theme=tokyonight" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devanshu-uu&theme=tokyonight" width="100%" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devanshu-uu&theme=tokyonight&utcOffset=5.5" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -220,15 +178,18 @@ https://devbytes.in
 ✔ Python
 ⬜ React
 ⬜ Node.js
+⬜ Express.js
 ⬜ MongoDB
 ⬜ Machine Learning
+⬜ Deep Learning
 ```
 
 ---
+
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devanshu-uu/Devanshu-uu/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Devanshu-uu/Devanshu-uu/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
@@ -236,7 +197,7 @@ https://devbytes.in
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devanshu-uu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Devanshu-uu&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -244,13 +205,19 @@ https://devbytes.in
 # ☕ Support Me
 
 <p align="center">
+
 If you like my work, consider giving a ⭐ to my repositories.
+
 </p>
 
 <p align="center">
+
 <a href="https://github.com/Devanshu-uu?tab=repositories">
-<img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-GitHub-black?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/⭐%20Star%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
 </p>
 
 ---
@@ -258,15 +225,19 @@ If you like my work, consider giving a ⭐ to my repositories.
 # 💡 Random Developer Quote
 
 <p align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 📈 Contribution Calendar
+# 📅 Contribution Calendar
 
 <p align="center">
-<img src="https://ghchart.rshah.org/Devanshu-uu" alt="GitHub Contribution Calendar"/>
+
+<img src="https://ghchart.rshah.org/409ba5/Devanshu-uu" alt="Contribution Calendar"/>
+
 </p>
 
 ---
@@ -275,13 +246,7 @@ If you like my work, consider giving a ⭐ to my repositories.
 
 <p align="center">
 
-💻 Open Source
-
-🌐 Web Development
-
-🤖 AI & Machine Learning
-
-📚 Learning Together
+💻 Open Source • 🌐 Web Development • 🤖 AI & Machine Learning • 📚 Learning Together
 
 </p>
 
@@ -292,11 +257,17 @@ If you like my work, consider giving a ⭐ to my repositories.
 </h2>
 
 <p align="center">
-Keep Learning ❤️ Keep Building 🚀 Keep Growing 🌱
+
+Keep Learning ❤️ • Keep Building 🚀 • Keep Growing 🌱
+
 </p>
 
 <p align="center">
+
 <a href="https://github.com/Devanshu-uu">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
+
 </a>
+
 </p>
