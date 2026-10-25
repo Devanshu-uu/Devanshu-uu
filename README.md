@@ -1,9 +1,16 @@
 <!-- ========================================================= -->
-<!--                  DEVANSHU GITHUB PROFILE                  -->
+<!--                  DEVANSHU GITHUB PROFILE              -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width="100%" alt="Banner"/>
+</p>
+
+<!-- Interactive Pixel Workspace Button -->
+<p align="center">
+  <a href="https://devanshu-uu.github.io/Devanshu-uu/">
+    <img src="https://img.shields.io/badge/🎮%20Click%20Here%20To%20Launch%20Interactive%20Workspace-ff2a8d?style=for-the-badge&logoColor=white&labelColor=1a1c29" alt="Interactive Workspace"/>
+  </a>
 </p>
 
 <h1 align="center">
