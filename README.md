@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://devanshu-uu.github.io">
+  <a href="[https://devanshu-uu.github.io](https://devanshu-uu.github.io/Devanshu-uu/)">
     <img src="https://img.shields.io/badge/🎮%20Click%20Here%20To%20Launch%20Interactive%20Workspace-ff2a8d?style=for-the-badge&logoColor=white&labelColor=1a1c29" alt="Interactive Workspace"/>
   </a>
 </p>
